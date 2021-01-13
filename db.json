@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": "7d588103-d5d0-4272-9d2e-f67563f7946f",
+      "name": "Gregory Pievski",
+      "description": "fgdfgd dfg dfg dfgd"
+    },
+    {
+      "id": "a6b85779-1317-4060-a692-a13e10cc98b5",
+      "name": "Gabriel Yonai",
+      "description": "fgdfgd dfg dfg dfgd"
+    },
+    {
+      "id": "44530345-9938-4178-b271-136fec428181",
+      "name": "Test 1",
+      "description": "Test 1"
+    }
+  ]
+}
